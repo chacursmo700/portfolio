@@ -1,0 +1,21 @@
+html {
+	box-sizing: border-box;
+}
+
+
+html {
+	font-family: 'Century Gothic', sans-serif;
+	font-size: xxx-large;;
+}
+
+.links {
+	margin: auto;
+	width: 600px;
+	padding-top: 50px;
+	border-style: solid;
+}
+
+
+main {
+	background-color: #34ff5a;
+}
